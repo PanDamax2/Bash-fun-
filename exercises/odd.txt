@@ -1,0 +1,10 @@
+Liczba:  1
+Liczba:  3
+Liczba:  5
+Liczba:  7
+Liczba:  9
+Liczba:  11
+Liczba:  13
+Liczba:  15
+Liczba:  17
+Liczba:  19
